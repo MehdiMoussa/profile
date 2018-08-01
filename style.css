@@ -7,7 +7,8 @@ body {
 
 h2 {
   font-weight: 100;
-  color: white;
+  color: #284B63;
+  text-align: center;
 }
 
 h3 {
@@ -39,6 +40,10 @@ h3 {
   text-align: center;
 }
 
+.titre-passion{
+  color: #284B63;
+}
+
 p {
     text-align: justify;
 }
@@ -53,4 +58,19 @@ table {
 width: 180px;
 height: 180px;
 border-radius: 50%;
+}
+
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+  text-align: center;
+}
+
+.padding-left{
+  padding-left: 20px;
 }
