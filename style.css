@@ -1,0 +1,56 @@
+
+body {
+  margin: 0 auto;
+  font-family: Montserrat, sans-serif;
+  background: #E2E2E2;
+}
+
+h2 {
+  font-weight: 100;
+  color: white;
+}
+
+h3 {
+  color: #E2002D;
+  text-align: justify;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.card {
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.card img{
+  border-radius: 3px;
+  height: 150px;
+  width: 280px;
+  object-fit: cover;
+}
+
+.text-center{
+  text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+table {
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+#facebookpic{
+width: 180px;
+height: 180px;
+border-radius: 50%;
+}
